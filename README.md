@@ -1,2 +1,2 @@
 # myTestRepo
-Test for CoderDogo
+Test for CoderDojo
